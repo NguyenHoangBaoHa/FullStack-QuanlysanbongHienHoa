@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UwMCtYtxsimDpNPbXHEqJoBmBKIyVEzODzYMic+YCY4=",
+  "Hash": "5PwowT9yXmIjczuV3bM3kP3DPDZB+KYhHI5mqnI1dso=",
   "Source": "QuanLySanBong",
   "BasePath": "_content/QuanLySanBong",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "QuanLySanBong\\wwwroot",
       "Source": "QuanLySanBong",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1).jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1).jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 5 (1)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 5 (1).jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_1.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_1.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 5 (1)_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 5 (1)_1.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_2.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_2.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 5 (1)_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 5 (1)_2.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_3.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_3.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 5 (1)_3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 5 (1)_3.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_4.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_4.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 5 (1)_4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 5 (1)_4.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2).jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2).jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 5 (2)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 5 (2).jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_1.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_1.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 5 (2)_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 5 (2)_1.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_2.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_2.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 5 (2)_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 5 (2)_2.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_3.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_3.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 5 (2)_3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 5 (2)_3.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_4.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_4.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 5 (2)_4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 5 (2)_4.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1).webp",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1).webp",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(1)#[.{fingerprint}]?.webp",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(1).webp"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_1.webp",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_1.webp",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(1)_1#[.{fingerprint}]?.webp",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(1)_1.webp"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_2.webp",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_2.webp",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(1)_2#[.{fingerprint}]?.webp",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(1)_2.webp"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_3.webp",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_3.webp",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(1)_3#[.{fingerprint}]?.webp",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(1)_3.webp"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2).jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2).jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(2)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(2).jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_1.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_1.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(2)_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(2)_1.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_2.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_2.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(2)_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(2)_2.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_3.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_3.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(2)_3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(2)_3.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3).jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3).jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(3)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(3).jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_1.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_1.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(3)_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(3)_1.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_2.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_2.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(3)_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(3)_2.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_3.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_3.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(3)_3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(3)_3.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4).jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4).jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(4)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(4).jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_1.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_1.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(4)_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(4)_1.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_2.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_2.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(4)_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(4)_2.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_3.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_3.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 7(4)_3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 7(4)_3.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1).jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1).jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 9(1)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 9(1).jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_1.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_1.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 9(1)_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 9(1)_1.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_2.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_2.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 9(1)_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 9(1)_2.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_3.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_3.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 9(1)_3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 9(1)_3.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2).jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2).jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 9(2)#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 9(2).jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_1.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_1.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 9(2)_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 9(2)_1.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_2.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_2.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 9(2)_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sân 9(2)_2.jpg"
     },
     {
-      "Identity": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_3.jpg",
+      "Identity": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_3.jpg",
       "SourceId": "QuanLySanBong",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\TestCode\\QuanLySanBong\\wwwroot\\",
+      "ContentRoot": "E:\\Code\\QuanLySanBong\\wwwroot\\",
       "BasePath": "_content/QuanLySanBong",
       "RelativePath": "images/sân 9(2)_3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -734,7 +734,7 @@
   "Endpoints": [
     {
       "Route": "images/sân 5 (1).81liqmyu1q.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -779,7 +779,7 @@
     },
     {
       "Route": "images/sân 5 (1).jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -816,7 +816,7 @@
     },
     {
       "Route": "images/sân 5 (1)_1.81liqmyu1q.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -861,7 +861,7 @@
     },
     {
       "Route": "images/sân 5 (1)_1.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -898,7 +898,7 @@
     },
     {
       "Route": "images/sân 5 (1)_2.81liqmyu1q.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -943,7 +943,7 @@
     },
     {
       "Route": "images/sân 5 (1)_2.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -980,7 +980,7 @@
     },
     {
       "Route": "images/sân 5 (1)_3.81liqmyu1q.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1025,7 +1025,7 @@
     },
     {
       "Route": "images/sân 5 (1)_3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1062,7 +1062,7 @@
     },
     {
       "Route": "images/sân 5 (1)_4.81liqmyu1q.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_4.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1107,7 +1107,7 @@
     },
     {
       "Route": "images/sân 5 (1)_4.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_4.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (1)_4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1144,7 +1144,7 @@
     },
     {
       "Route": "images/sân 5 (2).b9lm03cbu7.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1189,7 +1189,7 @@
     },
     {
       "Route": "images/sân 5 (2).jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1226,7 +1226,7 @@
     },
     {
       "Route": "images/sân 5 (2)_1.b9lm03cbu7.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1271,7 +1271,7 @@
     },
     {
       "Route": "images/sân 5 (2)_1.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1308,7 +1308,7 @@
     },
     {
       "Route": "images/sân 5 (2)_2.b9lm03cbu7.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1353,7 +1353,7 @@
     },
     {
       "Route": "images/sân 5 (2)_2.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1390,7 +1390,7 @@
     },
     {
       "Route": "images/sân 5 (2)_3.b9lm03cbu7.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1435,7 +1435,7 @@
     },
     {
       "Route": "images/sân 5 (2)_3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1472,7 +1472,7 @@
     },
     {
       "Route": "images/sân 5 (2)_4.b9lm03cbu7.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_4.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1517,7 +1517,7 @@
     },
     {
       "Route": "images/sân 5 (2)_4.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_4.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 5 (2)_4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1554,7 +1554,7 @@
     },
     {
       "Route": "images/sân 7(1).vk39qghqtr.webp",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1).webp",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1).webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1599,7 +1599,7 @@
     },
     {
       "Route": "images/sân 7(1).webp",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1).webp",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1).webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1636,7 +1636,7 @@
     },
     {
       "Route": "images/sân 7(1)_1.vk39qghqtr.webp",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_1.webp",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_1.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1681,7 +1681,7 @@
     },
     {
       "Route": "images/sân 7(1)_1.webp",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_1.webp",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_1.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1718,7 +1718,7 @@
     },
     {
       "Route": "images/sân 7(1)_2.vk39qghqtr.webp",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_2.webp",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_2.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1763,7 +1763,7 @@
     },
     {
       "Route": "images/sân 7(1)_2.webp",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_2.webp",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_2.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1800,7 +1800,7 @@
     },
     {
       "Route": "images/sân 7(1)_3.vk39qghqtr.webp",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_3.webp",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_3.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1845,7 +1845,7 @@
     },
     {
       "Route": "images/sân 7(1)_3.webp",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_3.webp",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(1)_3.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1882,7 +1882,7 @@
     },
     {
       "Route": "images/sân 7(2).foycx2zsa3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1927,7 +1927,7 @@
     },
     {
       "Route": "images/sân 7(2).jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1964,7 +1964,7 @@
     },
     {
       "Route": "images/sân 7(2)_1.foycx2zsa3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2009,7 +2009,7 @@
     },
     {
       "Route": "images/sân 7(2)_1.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2046,7 +2046,7 @@
     },
     {
       "Route": "images/sân 7(2)_2.foycx2zsa3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2091,7 +2091,7 @@
     },
     {
       "Route": "images/sân 7(2)_2.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2128,7 +2128,7 @@
     },
     {
       "Route": "images/sân 7(2)_3.foycx2zsa3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2173,7 +2173,7 @@
     },
     {
       "Route": "images/sân 7(2)_3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(2)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2210,7 +2210,7 @@
     },
     {
       "Route": "images/sân 7(3).a6if38b6z3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2255,7 +2255,7 @@
     },
     {
       "Route": "images/sân 7(3).jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2292,7 +2292,7 @@
     },
     {
       "Route": "images/sân 7(3)_1.a6if38b6z3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2337,7 +2337,7 @@
     },
     {
       "Route": "images/sân 7(3)_1.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2374,7 +2374,7 @@
     },
     {
       "Route": "images/sân 7(3)_2.a6if38b6z3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2419,7 +2419,7 @@
     },
     {
       "Route": "images/sân 7(3)_2.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2456,7 +2456,7 @@
     },
     {
       "Route": "images/sân 7(3)_3.a6if38b6z3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2501,7 +2501,7 @@
     },
     {
       "Route": "images/sân 7(3)_3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(3)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2538,7 +2538,7 @@
     },
     {
       "Route": "images/sân 7(4).73dvcg0uvc.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2583,7 +2583,7 @@
     },
     {
       "Route": "images/sân 7(4).jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2620,7 +2620,7 @@
     },
     {
       "Route": "images/sân 7(4)_1.73dvcg0uvc.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2665,7 +2665,7 @@
     },
     {
       "Route": "images/sân 7(4)_1.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2702,7 +2702,7 @@
     },
     {
       "Route": "images/sân 7(4)_2.73dvcg0uvc.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2747,7 +2747,7 @@
     },
     {
       "Route": "images/sân 7(4)_2.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2784,7 +2784,7 @@
     },
     {
       "Route": "images/sân 7(4)_3.73dvcg0uvc.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2829,7 +2829,7 @@
     },
     {
       "Route": "images/sân 7(4)_3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 7(4)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2866,7 +2866,7 @@
     },
     {
       "Route": "images/sân 9(1).jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2903,7 +2903,7 @@
     },
     {
       "Route": "images/sân 9(1).vxql86whj6.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2948,7 +2948,7 @@
     },
     {
       "Route": "images/sân 9(1)_1.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2985,7 +2985,7 @@
     },
     {
       "Route": "images/sân 9(1)_1.vxql86whj6.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3030,7 +3030,7 @@
     },
     {
       "Route": "images/sân 9(1)_2.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3067,7 +3067,7 @@
     },
     {
       "Route": "images/sân 9(1)_2.vxql86whj6.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3112,7 +3112,7 @@
     },
     {
       "Route": "images/sân 9(1)_3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3149,7 +3149,7 @@
     },
     {
       "Route": "images/sân 9(1)_3.vxql86whj6.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(1)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3194,7 +3194,7 @@
     },
     {
       "Route": "images/sân 9(2).jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3231,7 +3231,7 @@
     },
     {
       "Route": "images/sân 9(2).lyvpsl1i01.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2).jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2).jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3276,7 +3276,7 @@
     },
     {
       "Route": "images/sân 9(2)_1.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3313,7 +3313,7 @@
     },
     {
       "Route": "images/sân 9(2)_1.lyvpsl1i01.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_1.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3358,7 +3358,7 @@
     },
     {
       "Route": "images/sân 9(2)_2.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3395,7 +3395,7 @@
     },
     {
       "Route": "images/sân 9(2)_2.lyvpsl1i01.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_2.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3440,7 +3440,7 @@
     },
     {
       "Route": "images/sân 9(2)_3.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3477,7 +3477,7 @@
     },
     {
       "Route": "images/sân 9(2)_3.lyvpsl1i01.jpg",
-      "AssetFile": "E:\\TestCode\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_3.jpg",
+      "AssetFile": "E:\\Code\\QuanLySanBong\\wwwroot\\images\\sân 9(2)_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {

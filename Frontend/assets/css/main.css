@@ -1,0 +1,175 @@
+.header {
+    height: 50px;
+    background-color: #029b43;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.header__navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header__navbar__list{
+    list-style: none;
+    padding-left: 0;
+}
+
+.header__navbar__item{
+    margin: 0 8px;
+}
+
+.header__navbar__item,
+.header__navbar__item__link {
+    display: inline-block;
+    font-size: 1.6rem;
+    color: var(--white-color--);
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.header__navbar__item :hover,
+.header__navbar__item__link :hover{
+    color: #facc15;
+}
+
+/* Container  */
+.container{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.header-title {
+    color: #000; /* text-blue-700 */
+    font-size: 2.6rem; /* text-2xl */
+    font-weight: bold;
+    margin-bottom: 1rem; /* mb-1 */
+    text-align: center; /* nếu bạn muốn căn giữa */
+}
+
+.divider {
+    width: 5.5rem; /* w-10 */
+    height: 0.25rem; /* h-1 */
+    background-color: #60a5fa; /* bg-blue-400 */
+    margin-left: auto;
+    margin-right: auto; /* mx-auto */
+}
+
+.text{
+    align-items: center;
+    font-size: 1.6rem;
+    display: block;
+    margin-top: 20px;
+}
+
+
+/* footer */
+.footer {
+    background-color: #808080;
+    color: white;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+/* .footer-container__gt{
+    width: 15px;
+} */
+
+
+@media (min-width: 768px) {
+    .footer-container {
+        text-align: left;
+    }
+}
+
+.footer-section{
+    flex: 0 0 30%;
+    max-width: 30%;
+    padding: 0 10px;
+}
+
+
+.footer-section h2 {
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.footer-section p {
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 8px;
+    font-size: 1.5rem;
+}
+
+.footer-section ul li a {
+    color: #facc15;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline;
+}
+
+.contact-box {
+    background-color: #1e40af;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.phone-number {
+    color: #93c5fd;
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.call-button {
+    background-color: #facc15;
+    color: #1e3a8a;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.call-button:hover {
+    background-color: #eab308;
+}
+
+/* Footer Bottom */
+.footer-bottom {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #374151;
+    font-size: 0.9rem;
+    color: #d1d5db;
+}

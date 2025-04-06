@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sân bóng Hiền Hoà</title>
+  <link rel="stylesheet" href="../assets/css/base.css" />
+  <link rel="stylesheet" href="../assets/css/dangnhap.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" />
+  <!-- Font Awesome (icon X) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+
+<body>
+  <div id="nav-items"></div>
+  <div class="login-container">
+    <div class="login-box">
+      <div class="login-header">
+        <h2>Đăng nhập</h2>
+        <button class="close-button">
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+      <form id="loginForm">
+        <div class="form-group">
+          <label for="email">Email *</label>
+          <input id="email" type="email" required />
+        </div>
+        <div class="form-group">
+          <label for="password">Mật khẩu *</label>
+          <input id="password" type="password" required />
+        </div>
+        <div class="form-actions">
+          <button type="submit">Đăng nhập</button>
+          <a href="#">Quên mật khẩu</a>
+        </div>
+      </form>
+      <p id="error-message" style="color: red; text-align: center;"></p>
+    </div>
+  </div>
+
+  <!-- Import axios từ CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="../assets/js/api.js"></script>
+  <!-- Import script xử lý đăng nhập -->
+  <script src="../assets/js/dangnhap.js"></script>
+</body>
+
+</html>

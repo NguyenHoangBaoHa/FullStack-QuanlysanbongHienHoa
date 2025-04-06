@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DDF/bg73IKM=",
+  "dgSpecHash": "sO9S80nKe+k=",
   "success": true,
-  "projectFilePath": "E:\\TestCode\\QuanLySanBong\\QuanLySanBong.csproj",
+  "projectFilePath": "E:\\Code\\QuanLySanBong\\QuanLySanBong.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
